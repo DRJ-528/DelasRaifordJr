@@ -485,7 +485,7 @@ const ThemePreview: React.FC = () => {
           <div className="mt-24 md:mt-40 flex flex-wrap justify-center gap-12 md:gap-16 text-[10px] font-black uppercase tracking-[0.4em] opacity-30">
              <a href={`https://${DELAS_INFO.linkedin}`} target="_blank" rel="noreferrer" className="hover:text-blue-600">LinkedIn</a>
              <button onClick={() => setIsLoginOpen(true)} className="hover:text-blue-600">CLIENT PORTAL</button>
-             <a href="https://cdn.prod.website-files.com/5ffb5d0601b4d62ce7b1f115/68d45efce263b32befc7b2c2_7c22a50c26cd17b57ad6ab043ac1c236_Delas_Raiford_Jr.pdf" target="_blank" className="hover:text-blue-600">Resume PDF</a>
+             <a href="https://cdn.prod.website-files.com/5ffb5d0601b4d62ce7b1f115/68d45efce263b32befc7b2c2_6dea31a13cda2d47f9d6b267157ff232_Delas_Raiford_Jr.pdf" target="_blank" className="hover:text-blue-600">Resume PDF</a>
           </div>
         </div>
       </footer>
