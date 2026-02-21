@@ -1,2 +1,2 @@
-git commit --allow-empty -m "Force rebuild GitHub Pages"
+git commit --allow-empty -m "Trigger GitHub Pages rebuild"
 git push
