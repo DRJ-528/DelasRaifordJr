@@ -9,7 +9,7 @@ export const DELAS_INFO = {
   website: "www.delasraifordjr.com",
   linkedin: "linkedin.com/in/delasraifordjr/",
   philosophy: "Directing visual storytelling for global brands. 20+ years of mastery in the creative lifecycle.",
-  summary: "Senior level branding and creative professional with over 20 years of experience translating complex business objectives into compelling visual solutions for global brands. A versatile, hands-on leader skilled in managing the entire creative lifecycle — from concept to final execution across print, web, video, and large-scale event campaigns.",
+  summary: "Senior-level branding and creative professional with extensive experience translating complex business objectives into compelling visual solutions for global brands. Versatile, hands-on leader skilled in managing the entire creative lifecycle—from concept to final execution—across print, web, video, and large-scale event campaigns. Proven ability to elevate brand identity and support sales and marketing goals in fast-paced corporate environments.",
   stats: [
     { label: "Years Creative Experience", value: "20+" },
     { label: "Years Agency Experience", value: "5+" },
