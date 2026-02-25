@@ -252,7 +252,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     image: "https://cdn.prod.website-files.com/5ffb5d0601b4d62ce7b1f115/68dd8347f51b5724dbc38bec_Invite-MCE24.jpg"
   },
 
-  // --- DIGITAL CATEGORY (10 Total) ---
+  // --- DIGITAL CATEGORY (10 In Total) ---
   {
     id: "digital-1",
     title: "Event Campaign Socials",
